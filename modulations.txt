@@ -1,0 +1,61 @@
+** Analog Modulation **
+
+AM (Amplitude Modulation)
+FM (Frequency Modulation)
+PM (Phase Modulation)
+
+** Subtypes of AM **
+DSB (Double-Sideband Modulation)
+	DSB-WC (Double-Sideband with Carrier)
+	DSB-SC (Double-Sideband Suppressed Carrier)
+	DSB-RC (Double-Sideband Reduced Carrier)
+
+SSB (Single-Sideband Modulation)
+	SSB-WC (Single-Sideband with Carrier)
+	SSB-SC (Single-Sideband Suppressed Carrier)
+
+VSB (Vestigial Sideband Modulation)
+QAM (Quadrature Amplitude Modulation)
+
+** Digital Modulation **
+ASK (Amplitude Shift Keying)
+FSK (Frequency Shift Keying) [https://sterva.org/modulations/fsk/fsk.html]
+PSK (Phase Shift Keying)
+	BPSK (Binary Phase Shift Keying)
+	QPSK (Quadrature Phase Shift Keying)
+	8-PSK (8-Phase Shift Keying)
+	16-PSK (16-Phase Shift Keying)
+	DPSK (Differential Phase Shift Keying)
+	DQPSK (Differential Quadrature Phase Shift Keying)
+	OQPSK (Offset Quadrature Phase Shift Keying)
+	π/4–QPSK (π/4-Shifted Quadrature Phase Shift Keying)
+
+QAM (Quadrature Amplitude Modulation)
+	16-QAM
+	64-QAM
+	256-QAM
+
+CPM (Continuous Phase Modulation)
+	MSK (Minimum Shift Keying) [https://sterva.org/modulations/msk/msk.html]
+	GMSK (Gaussian Minimum Shift Keying)
+	CPFSK (Continuous Phase Frequency Shift Keying) [https://sterva.org/modulations/cpfsk/cpfsk.html]
+
+OFDM (Orthogonal Frequency Division Multiplexing)
+	DMT (Discrete Multitone Modulation)
+
+Spread Spectrum Techniques
+	DSSS (Direct Sequence Spread Spectrum)
+	FHSS (Frequency Hopping Spread Spectrum)
+	CSS (Chirp Spread Spectrum)
+
+** Wavelet Modulation **
+TCM (Trellis Coded Modulation)
+
+** Pulse Modulation **
+PAM (Pulse Amplitude Modulation)
+PCM (Pulse Code Modulation)
+PPM (Pulse Position Modulation)
+
+** Multiple Access Techniques **
+CDMA (Code Division Multiple Access)
+WCDMA (Wideband Code Division Multiple Access)

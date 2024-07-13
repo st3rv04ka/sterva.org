@@ -1,0 +1,36 @@
+Personal Information
+
+> Username: Sterva
+> Age: 13
+> Skills
+    - Unix
+    - Go
+    - Python
+    - ML
+    - AI
+    - Bug Bounty
+    - Penetration testing
+    - Reverse Engineering
+> Hobbies
+    - DSP
+    - Radio
+
+Social Links
+
+~ https://github.com/st3rv04ka Github
+~ https://www.hackthebox.eu/profile/110070 HackTheBox
+
+Projects
+
+% https://github.com/st3rv04ka/ViralAir ViralAir
+% https://github.com/st3rv04ka/waterfool WaterFool
+
+Radio Blog
+
+~ https://xakep.ru/2023/12/19/ads-b-guide/ ADS-B Part 1
+~ https://xakep.ru/2024/01/26/ads-b-sdr/ ADS-B Part 2
+~ https://xakep.ru/2023/04/06/gps-spoofing/ GPS Spoofing
+~ https://xakep.ru/2024/04/24/drawing-on-waterfall/ Waterfall
+~ https://sterva.org/modulations.txt
+
+
