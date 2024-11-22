@@ -24,6 +24,7 @@ Projects
 
 % https://github.com/st3rv04ka/ViralAir ViralAir
 % https://github.com/st3rv04ka/waterfool WaterFool
+% https://github.com/st3rv04ka/ais_demod GnuRadio AIS Demod
 
 Radio Blog
 
@@ -31,6 +32,7 @@ Radio Blog
 ~ https://xakep.ru/2024/01/26/ads-b-sdr/ ADS-B Part 2
 ~ https://xakep.ru/2023/04/06/gps-spoofing/ GPS Spoofing
 ~ https://xakep.ru/2024/04/24/drawing-on-waterfall/ Waterfall
+~ https://xakep.ru/2024/09/12/decoding-ais/ AIS Part 1 
 ~ https://sterva.org/modulations.txt
 
 
