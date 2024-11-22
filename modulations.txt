@@ -37,7 +37,7 @@ QAM (Quadrature Amplitude Modulation)
 
 CPM (Continuous Phase Modulation)
 	MSK (Minimum Shift Keying) [https://sterva.org/modulations/msk/msk.html]
-	GMSK (Gaussian Minimum Shift Keying)
+	GMSK (Gaussian Minimum Shift Keying) [https://sterva.org/modulations/gmsk/gmsk.html]
 	CPFSK (Continuous Phase Frequency Shift Keying) [https://sterva.org/modulations/cpfsk/cpfsk.html]
 
 OFDM (Orthogonal Frequency Division Multiplexing)
