@@ -28,11 +28,19 @@ Projects
 
 Radio Blog
 
-~ https://xakep.ru/2023/12/19/ads-b-guide/ ADS-B Part 1
-~ https://xakep.ru/2024/01/26/ads-b-sdr/ ADS-B Part 2
-~ https://xakep.ru/2023/04/06/gps-spoofing/ GPS Spoofing
-~ https://xakep.ru/2024/04/24/drawing-on-waterfall/ Waterfall
-~ https://xakep.ru/2024/09/12/decoding-ais/ AIS Part 1 
-~ https://sterva.org/modulations.txt
+~ https://xakep.ru/2023/12/19/ads-b-guide/ ADS-B Part 1 [RU]
+~ https://blog.exploit.org/ads-b-guide-demodulation-and-decoding/ ADS-B Part 1 [ENG]
+~ https://xakep.ru/2024/01/26/ads-b-sdr/ ADS-B Part 2 [RU]
+~ https://blog.exploit.org/ads-b-spoofing/ ADS-B Part 2 [ENG]
+~ https://xakep.ru/2023/04/06/gps-spoofing/ GPS Spoofing [RU]
+~ https://xakep.ru/2024/04/24/drawing-on-waterfall/ Waterfall [RU]
+~ https://xakep.ru/2024/09/12/decoding-ais/ AIS Part 1 [RU]
+~ https://sterva.org/modulations.txt [RU]
+
+My CVEs
+
+> https://www.cve.org/CVERecord?id=CVE-2024-12850 CVE-2024-12850
+> https://www.cve.org/CVERecord?id=CVE-2024-13911 CVE-2024-13911
+> https://www.cve.org/CVERecord?id=CVE-2024-13910 CVE-2024-13910
 
 
