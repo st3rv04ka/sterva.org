@@ -1,7 +1,7 @@
 Personal Information
 
 > Username: Sterva
-> Age: 13
+> Age: 24
 > Skills
     - Unix
     - Go
@@ -42,5 +42,6 @@ My CVEs
 > https://www.cve.org/CVERecord?id=CVE-2024-12850 CVE-2024-12850
 > https://www.cve.org/CVERecord?id=CVE-2024-13911 CVE-2024-13911
 > https://www.cve.org/CVERecord?id=CVE-2024-13910 CVE-2024-13910
-
-
+> https://www.cve.org/CVERecord?id=CVE-2025-2250 CVE-2025-2250
+> https://www.cve.org/CVERecord?id=CVE-2025-2257 CVE-2025-2257
+> https://www.cve.org/CVERecord?id=CVE-2025-5303 cve-2025-5303
